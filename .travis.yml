@@ -24,15 +24,9 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy\_rsa
 - ssh-add /tmp/deploy\_rsa
-# - echo -e "Host $DEPLOY_HOST\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 deploy:
   provider: script
   skip_cleanup: true
-  # script: rsync -r --quiet --delete-after _site/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
   script: rsync -avz --quiet --delete-after -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" _site/* $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DIRECTORY
-
-
-
-
   on:
     branch: master
