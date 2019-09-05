@@ -4,9 +4,11 @@
 
 layout: splash
 title: Hub
+permalink: /hub/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/air_quality.jpg
+
 ---
 # Hub - JupyterHub login
 

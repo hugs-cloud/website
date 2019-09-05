@@ -4,6 +4,7 @@
 
 layout: splash
 title: Upload
+permalink: /upload/
 header:
   overlay_color: "#b01b2e"
   overlay_image: /assets/images/air_quality.jpg
