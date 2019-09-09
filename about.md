@@ -6,4 +6,6 @@ header:
   overlay_color: "#b01b2e"
   overlay_image: /assets/images/air_quality.jpg
 ---
-About the HUGS project
+The HUb for Greenhouse gas data Science (HUGS) is a hub for the analysis of greenhouse gas data. The project if funded by NERC.
+
+For further details, contact Matt Rigby, University of Bristol.
