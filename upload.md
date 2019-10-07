@@ -12,5 +12,5 @@ header:
 
 # Upload
 
-Placeholder for page for uploading data
+When the HUGS platform is fully operational this page will allow upload of data to the platform.
 
