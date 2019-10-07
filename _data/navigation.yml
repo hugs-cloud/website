@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Upload"
-    url: /upload/
-  - title: "Hub"
-    url: /hub/
+  - title: "Registration"
+    url: /registration/
+  - title: "HUGS Hub"
+    url: https://hub.hugs-cloud.com
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
