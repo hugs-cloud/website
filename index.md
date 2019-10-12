@@ -27,7 +27,6 @@ Interaction with the data and associated products to plot and interpret will be 
 
 <img src="/assets/images/HUGS_notebook_interface.jpg" alt="drawing" width="1080"/>
 
-
 ## Prototype
 
 To use a prototype of the platform please visit the [Registration]({{ site.baseurl }}{% link registration.md %}) page and submit your details. You will then be emailed a username and password to login to the [HUGS Hub](https://hub.hugs-cloud.com) that allows interaction with the HUGS platform through a simple
