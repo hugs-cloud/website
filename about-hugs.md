@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: About
-permalink: /about/
+permalink: /about-hugs/
 header:
   overlay_color: "#b01b2e"
   overlay_image: /assets/images/chimney-exhaust-gases-factory.jpg
