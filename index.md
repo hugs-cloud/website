@@ -25,7 +25,34 @@ The HUGS platform aims to solve these challenges by providing a platform for int
 
 Interaction with the data and associated products to plot and interpret will be facilitated via a simple web interface with more functionality available via Jupyter notebooks.
 
+<div style="text-align: center">
 <img src="/assets/images/HUGS_notebook_interface.jpg" alt="drawing" width="1080"/>
+</div>
+
+## Science
+
+HUGS will allow users to run complex simulations on demand, allowing creation of striking visualisations that help transfer knowledge effectively.
+
+<div style="text-align: center">
+<video height="400" muted loop autoplay controls>
+  <source src="/assets/video/UK_footprint_movie.m4v" type="video/mp4">
+</video>
+</div>
+<div style="text-align: center">
+<b>Video 1.</b> Sensitivities for 6 sites in the UK and the Republic of Ireland in March 2014.<br/>
+Credit: Dr Matthew Rigby, ACRG, University of Bristol
+</div>
+&nbsp;
+<div style="text-align: center">
+<video height="400" muted loop autoplay controls>
+  <source src="/assets/video/20190606_slowed_cfc-11_GSN.m4v" type="video/mp4">
+</video>
+</div>
+<div style="text-align: center">
+<b>Video 2.</b> Sensitivities for a site to the south of the Korean peninsula across two months in 2016.<br/> Credit: Dr Luke Western, ACRG, University of Bristol
+</div>
+<!-- <p float="left">
+</p> -->
 
 ## Prototype
 
