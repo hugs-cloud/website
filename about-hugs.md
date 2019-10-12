@@ -24,4 +24,9 @@ The HUGS Hub, a JupyterHub platform from which to interact with the platform, is
 
 The video below is an example of the power of utilising a Jupyter Notebook interface for data analysis and processing.
 
-{% include youtube.html id='pnvjtGi5nPA' %}
+
+<div style="text-align: center">
+<video height="500" muted controls>
+  <source src="/assets/video/HUGS_notebook_example.m4v" type="video/mp4">
+</video>
+</div>
