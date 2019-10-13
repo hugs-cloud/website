@@ -29,7 +29,7 @@ Interaction with the data and associated products to plot and interpret will be 
 <img src="/assets/images/HUGS_notebook_interface.jpg" alt="drawing" width="1080"/>
 </div>
 
-## Science
+## Visualisation
 
 HUGS will allow users to run complex simulations on demand, allowing creation of striking visualisations that help transfer knowledge effectively.
 
