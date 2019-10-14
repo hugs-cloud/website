@@ -22,7 +22,7 @@ Current challenges when dealing with greenhouse gas data include:
 
 The HUGS platform aims to solve these challenges by providing a platform for greenhouse gas data analysis. It will allow comparison of data with vital ancillary information such as atmospheric model output, emissions inventories, and mapping tools. The platform will also provide key analysis methods and functionality. We do not plan on creating another long-term data storage repository, we want HUGS to be a platform that facilitates sharing and analysis of archived greenhouse gas data.
 
-HUGS is built on open source tools such as ["xarray"](http://xarray.pydata.org/en/stable/) and ["Jupyter notebooks"](https://jupyter.org).
+HUGS is built on open source tools such as [xarray](http://xarray.pydata.org/en/stable/) and [Jupyter notebooks](https://jupyter.org).
 
 ## Interface
 
