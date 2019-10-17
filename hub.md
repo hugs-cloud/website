@@ -10,6 +10,8 @@ header:
   overlay_image: /assets/images/air_quality.jpg
 
 ---
-# Hub - JupyterHub login
+# HUGS Hub
 
-This will be linked to the JupyterHub server at the subdomain hub.hugs-cloud.com
+The HUGS Hub is currently being updated and will be back online soon.
+
+
