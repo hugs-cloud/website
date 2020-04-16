@@ -5,8 +5,8 @@ main:
   - title: "Registration"
     url: /registration/
   - title: "HUGS Hub"
-    url: /hub/
-    # url: https://hub.hugs-cloud.com
+    # url: /hub/
+    url: https://hub.hugs-cloud.com
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
