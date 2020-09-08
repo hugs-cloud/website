@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "About"
+    url: /about-hugs/
+  - title: "Registration"
+    url: /registration/
+  - title: "HUGS Hub"
+    # url: /hub/
+    url: https://hub.hugs-cloud.com
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
