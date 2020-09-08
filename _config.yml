@@ -28,9 +28,10 @@ twitter_username:
 github_username:  hugs-cloud
 
 # Build settings
-theme: minimal-mistakes-jekyll
-# plugins:
-#   - jekyll-feed
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
+plugins:
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
