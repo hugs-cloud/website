@@ -7,6 +7,11 @@ header:
 excerpt: >
   HUb for greenhouse Gas data Science
 ---
+
+The HUGS project is being continued as OpenGHG. Please visit the ["OpenGHG website"](http://openghg.org) for more information.
+
+## HUGS
+
 HUGS is a cloud-based data analysis "hub" for greenhouse gas measurements, modelling and data analysis, funded as a NERC ["Constructing a Digital Environment"](https://nerc.ukri.org/innovation/activities/environmentaldata/digitalenv/) feasibility study. We aim to streamline the process for greenhouse gas data sharing, analysis and visualisation and add value through automated processes such as atmospheric chemistry transport model runs associated with data.
 
 ## Challenges
@@ -46,9 +51,6 @@ HUGS will allow users to run complex simulations on demand, allowing creation of
 Credit: Dr Matthew Rigby, ACRG, University of Bristol
 </div>
 
-## Prototype
-
-To use a prototype of the platform please visit the [Registration]({{ site.baseurl }}{% link registration.md %}) page and submit your details. You will then be emailed a username and password to login to the [HUGS Hub](https://hub.hugs-cloud.com) that allows interaction with the HUGS platform through a simple
-Jupyter Notebook interface.
+## Participation
 
 To participate or for more information please contact [Dr. Matt Rigby](mailto:matt.rigby@bristol.ac.uk).
